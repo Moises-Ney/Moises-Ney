@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Moises-Ney
-- 👀 I’m interested in aprender y avanzar mas en la programacion
-- 🌱 I’m currently learning programacion en C
-- 💞️ I’m looking to collaborate por los momentos con nadie
 - 📫 How to reach me ...
 
 <!---
